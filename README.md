@@ -1,1 +1,2 @@
-# Grades-Management-System
+# Grades-Management-System ✔
+This is an application built using Java. This application is mainly designed to provide an interface that acts as a medium between faculty and students. This application is used to manage grades, give feedback, and upload course materials for the students. The application is built using Java (Back-end language), XML as front-end language. This application is built using Android Studio.
